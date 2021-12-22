@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e4b8e3f.css",
+    "main.js": "/static/js/main.0bdf5937.js",
+    "static/media/angular-logo-240.png": "/static/media/angular-logo-240.278a3a1f54a90324a72d.png",
+    "index.html": "/index.html",
+    "main.2e4b8e3f.css.map": "/static/css/main.2e4b8e3f.css.map",
+    "main.0bdf5937.js.map": "/static/js/main.0bdf5937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e4b8e3f.css",
+    "static/js/main.0bdf5937.js"
+  ]
+}
